@@ -156,7 +156,7 @@ large enough to actually provide muscle or help in making research deployment an
 1. Development.
 2. Benchmark Applications:
     - Run equally on: 
-        + Cloud  services (low-end instance --eight vCPUs)
+        + Cloud  services (low-end instance -- eight vCPUs)
         + HPC facility. 
     - Gather benchmarking data.
         - Simulation time  
@@ -166,16 +166,17 @@ large enough to actually provide muscle or help in making research deployment an
         + [NPB](https://www.nas.nasa.gov/software/npb.html), a well known suite of HPC Benchmarks from the NAS divistion
         + Parallel Solver Implementation of Laplace's Heat Diffusion Equations
 
-## 4. Wrap-up
+## 4. Conclusions
 
 Finally, given: 
-- Prof. Franke's extensive background, especially in and around HPC/MPI 
 - Prof. Carsten's field of research heavily centered around HPC/Parallel Computing 
 - Open works at Prof. Carsten's chair by Prof. Schulz ( 
 [1](https://www.ce.cit.tum.de/fileadmin/w00cgn/caps/pdf/BAMA-Characterization-of-Benchmarks-Network.pdf), 
 [2](https://www.ce.cit.tum.de/fileadmin/w00cgn/caps/pdf/BAMA-Characterization-of-Benchmarks-Memory.pdf),
 [3](https://www.ce.cit.tum.de/fileadmin/w00cgn/caps/pdf/BAMA-Characterization-of-Benchmarks-IO.pdf) 
-), indicate that this __work/tool could be of use to the chair or even ongoing research!__
-- Even openly extended to include OCI-compliant Unikernels as a container technology if relevant for HPC.
+), which might indicate such a tool could be of use to the chair/ongoing research!
+- Openly extended to include OCI-compliant Unikernels as a container technology if relevant for HPC.
+- Prof. Franke's extensive background, especially in and around HPC/MPI.
+- If proven useful, the tool could stand to be used and help around with work/research at the [LRZ](https://www.lrz.de/index.html)
 
 I believe that the venn diagramm of interests, capability, and feasability of this work is well closed! 
